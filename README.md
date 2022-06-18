@@ -1,4 +1,4 @@
-# Lightbox
+## Lightbox
 
 Lightbox echo con html css JavaScript
 
